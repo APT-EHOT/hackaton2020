@@ -1,10 +1,10 @@
 # Intellectual system of orders distribution between couriers
-Digital Breaktrough Hackaton, 2020
+Digital Breaktrough Hackaton, Central Hub, 2020
+RealityFlex team
 
 ## Description
 Solution for MyPoint case at Digital Breaktrough Hackaton, Central Hub, 2020. Includes an algorithm of intellectual system, which helps delivery operators choose couriers for different deliveries and two mobile applications for demonstrating.
-
-
+Intellectual system based on traveling salesman problem solution known as simulated annealing algorithm.
 
 ## Solution components (source code)
 * MyPointAdmin - mobile application for operator, can be built in Android Studio
