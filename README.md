@@ -1,6 +1,5 @@
 # Intellectual system of orders distribution between couriers
-Digital Breaktrough Hackaton, Central Hub, 2020
-RealityFlex team
+Digital Breaktrough Hackaton, Central Hub, MyPoint case, 2020. Solution by RealityFlex team.
 
 ## Description
 Solution for MyPoint case at Digital Breaktrough Hackaton, Central Hub, 2020. Includes an algorithm of intellectual system, which helps delivery operators choose couriers for different deliveries and two mobile applications for demonstrating.
